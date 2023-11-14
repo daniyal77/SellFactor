@@ -1,0 +1,13 @@
+{
+    "name": "SellFactor",
+    "alias": "sellfactor",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SellFactor\\Providers\\SellFactorServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
